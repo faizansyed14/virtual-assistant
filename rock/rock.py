@@ -117,13 +117,6 @@ while True:
  
     elif "who are you" in query:
         speak("I am your virtual assistant created by faizan")
-      
-
-    elif 'do you have a girlfriend' in query:
-        speak("no sir, iam still single like you")
-
-    elif 'just shut up' or 'keep quite' in query:
-        speak("sorry sir")
 
     elif 'who created you' in query:
         speak("sir iam Rock,I was created by faizan,he is the man behinde my intelligence")
